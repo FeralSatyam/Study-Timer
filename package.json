@@ -1,6 +1,5 @@
 {
   "name": "pomodoro-app",
-  "homepage": "https://satyamrana.com.np/Todo-List-App/"
   "private": true,
   "version": "0.0.0",
   "type": "module",
